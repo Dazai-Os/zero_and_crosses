@@ -7,7 +7,7 @@
 2. Логика поведения компьютера
 3. Два пути
 4. Примеры игр с ценой
-5. Примеры игр с объединением цены 3 и 2
+5. Примеры игр с объединением цены 1 и 2
 ___
 
 ## Информация о классе
@@ -64,3 +64,19 @@ ____
 ![](https://github.com/Dazai-Os/zero_and_crosses/blob/master/screenshots/photo_2022-02-27_18-46-32.jpg)
 
 ![](https://github.com/Dazai-Os/zero_and_crosses/blob/master/screenshots/photo_2022-02-27_18-46-52.jpg)
+
+## Примеры игр с объединением цены 1 и 2
+
+Примечание все игры, которые заканчиваются победой, заканчиваются победой X, из-за того что он владеет самой важной точкой, O при удачном рандоме может свести игру в ничью
+
+1.
+
+![](https://github.com/Dazai-Os/zero_and_crosses/blob/master/screenshots/photo_2022-02-27_18-55-22.jpg)
+
+![](https://github.com/Dazai-Os/zero_and_crosses/blob/master/screenshots/photo_2022-02-27_18-55-29.jpg)
+
+2.
+
+![](https://github.com/Dazai-Os/zero_and_crosses/blob/master/screenshots/photo_2022-02-27_18-55-35.jpg)
+
+![](https://github.com/Dazai-Os/zero_and_crosses/blob/master/screenshots/photo_2022-02-27_18-55-38.jpg)
