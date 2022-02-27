@@ -55,12 +55,12 @@ ____
 
 1.
 
-![]()
+![](https://github.com/Dazai-Os/zero_and_crosses/blob/master/screenshots/photo_2022-02-27_18-45-38.jpg)
 
-![]()
+![](https://github.com/Dazai-Os/zero_and_crosses/blob/master/screenshots/photo_2022-02-27_18-45-52.jpg)
 
 2.
 
-![]()
+![](https://github.com/Dazai-Os/zero_and_crosses/blob/master/screenshots/photo_2022-02-27_18-46-32.jpg)
 
-![]()
+![](https://github.com/Dazai-Os/zero_and_crosses/blob/master/screenshots/photo_2022-02-27_18-46-52.jpg)
