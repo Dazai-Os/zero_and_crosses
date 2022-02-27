@@ -47,11 +47,11 @@ class TicTac():
 
             rand_check = False
             while rand_check == False:
-                if price_cell == 2:
-                    future_win = random.choice([0, 2, 6, 8])
+                if price_cell == 2 or price_cell == 1:
+                    future_win = random.choice([0, 2, 6, 8, 1, 3, 5, 7])
                     if self.board[future_win] == " ":
                         rand_check = True
-                elif price_cell == 1:
+                elif price_cell == -1:
                     future_win = random.choice([1, 3, 5, 7])
                     if self.board[future_win] == " ":
                         rand_check = True
